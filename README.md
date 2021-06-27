@@ -20,5 +20,15 @@ Please install python packages listed in the requirements.txt using the standard
 
 1. Run the game (refer above)<br/>
 2. Once running, wait for the loading to screen to get over. (Not required really, all the resources load instantly. It's just something to practise sprite loading) <br/>
-3.  Press the END button to start the game and to play again. <br/>
-4.  Alternatively, a README.txt is provided in the windows release tag. 
+3.  Press the "END" key to start the game and to play again. <br/>
+4.  The logic of selection is random, every press of "END" key is honored, so be careful!<br/>
+5.  Alternatively, a README.txt is provided in the windows release tag. 
+
+## So what can i upgrade?
+
+The stock code comes with a custom font and some gif images that i have split into component images. These are fully customizable (all of them). Just remember to name them according to the existing structure and you should be fine.<br/>
+Simultaneously, you can alter the music files provided in the /music folder, just remember to rename the new file to the orignal one.<br>
+<br/>
+### Improvements
+<br>
+Yes, there are multiple points of improvements possible, like allowing user to change screen WHILE a gif is executed, dropping the multiple "END" key press in case of spamming the button and the save the application from crashing. Fork it and go crazy 👽
