@@ -1,6 +1,11 @@
 # Rock-Paper-Scissors
-Rock Paper Scissors 3.0 
-
+A simple game of Rock Paper Scissors v3.0 <br/>
+Major improvements over the versions:
+1. **V1**: Core logic, a CLI based rock paper scissors game. Born because i was bored and wanted to play the game but no one was around. 🥉 <br/> 
+2. **V2**: A simple GUI based game. Born because i couldn't really find anything like it. 🥈 <br/>
+3. **V3**: Contains music and much better animations. 🥇<br/>
+<br/>
+Note: that I have not added the v1 and v2 as v3 is superior to both of them in every single way. 
 
 ## Installation
 Please install python packages listed in the requirements.txt using the standard method. (pip install -r requirements.txt)
