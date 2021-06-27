@@ -12,7 +12,7 @@ Please install python packages listed in the requirements.txt using the standard
   b. Perform installaton of requirements stated in requirements.txt. To do this: <br/>
   <code>pip install -r ./reqiurements.txt </code><br/>
   c. Run the main file using python.<br/>
-  <code>python ./Tic-Tac-Toe.py</code><br/>
+  <code>python ./Rock_Paper_Scissors_v3.py</code><br/>
 <br/>
 2. Alternatively, use the release version in the tags section of this repo for a windows install.
 
